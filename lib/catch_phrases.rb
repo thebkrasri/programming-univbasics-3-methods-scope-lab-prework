@@ -10,5 +10,5 @@ def toadstool
 end
 
 def link
-  
+  return "It's Dangerous To Go Alone! Take This.\n"
 end
